@@ -1,0 +1,10 @@
+Типы заданий:
+
+Multiple choice - выбор правильного ответа
+True/False/Not Given - определение истинности утверждений
+Yes/No/Not Given - согласие с мнением автора
+Matching headings - подбор заголовков к параграфам
+Sentence completion - завершение предложений
+Summary completion - заполнение пропусков в резюме
+Short answer questions - краткие ответы на вопросы
+Matching information - соотнесение информации
