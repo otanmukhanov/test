@@ -8,3 +8,68 @@ Sentence completion - завершение предложений
 Summary completion - заполнение пропусков в резюме
 Short answer questions - краткие ответы на вопросы
 Matching information - соотнесение информации
+
+
+Вот примеры каждого типа вопросов в IELTS Reading:
+
+1. Multiple Choice
+Вопрос: What is the main cause of global warming according to the passage?
+A) Solar radiation
+B) Human activities
+C) Natural cycles
+D) Ocean currents
+
+
+2. True/False/Not Given
+Утверждения:
+
+The research was conducted over a 10-year period. (True/False/Not Given)
+Scientists used advanced equipment in their study. (True/False/Not Given)
+The results surprised the research team. (True/False/Not Given)
+
+
+3. Yes/No/Not Given
+Вопрос: Do the following statements agree with the writer's opinion?
+
+Technology will solve all environmental problems. (Yes/No/Not Given)
+Governments should invest more in renewable energy. (Yes/No/Not Given)
+
+
+4. Matching Headings
+Заголовки:
+i) Economic benefits of tourism
+ii) Environmental concerns
+iii) Future predictions
+iv) Historical background
+Параграфы: A, B, C, D (нужно сопоставить с заголовками)
+
+
+5. Sentence Completion
+Завершите предложения словами из текста (не более 3 слов):
+
+The experiment lasted for __________.
+Participants were selected based on their __________.
+The main finding was that __________ significantly improved.
+
+
+6. Summary Completion
+Заполните пропуски:
+The study examined the effects of (1)________ on plant growth. Researchers found that plants exposed to (2)________ grew 25% faster than the control group. The results suggest that (3)________ could revolutionize agriculture.
+
+
+7. Short Answer Questions
+Ответьте не более чем тремя словами:
+
+When did the Industrial Revolution begin?
+Where was the first factory built?
+Who invented the steam engine?
+
+
+8. Matching Information
+Сопоставьте информацию с параграфами A-F:
+
+A description of the research methodology (Paragraph ___)
+Statistics about population growth (Paragraph ___)
+An example of successful implementation (Paragraph ___)
+
+Каждый тип требует разных стратегий чтения и поиска информации в тексте.
